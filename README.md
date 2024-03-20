@@ -6,8 +6,8 @@ This is a blog made using Flask. I am using this blog to try new things with Pyt
 
 1. Create a virtual environment using `python -m venv venv`.
 2. Activate the virtual environment `.\venv\Scripts\activate`
-3. Run `pip install -r requirements.txt` to install the required packages.
-4. Launch the Flask application by running `flask run` in the terminal.
+3. Run `pip install -r requirements.txt`
+4. `flask run` in the terminal.
 
 ## License 📜
 
