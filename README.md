@@ -15,4 +15,4 @@ The secrets of this project are unveiled under the enigmatic WTFPL (Do What The 
 
 ## Architect of the Unknown 🎨
 
-Crafted by the enigmatic Kindr3d, this project beckons you to join the quest into the realm of infinite possibilities.
+This project is written by [Kindr3d](https://github.com/GitKindr3d).
